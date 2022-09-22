@@ -4,8 +4,8 @@ Workspace for week 2 in class exercises.
 
 Covered this week:
 
-- [ ] Commenting
-- [ ] Flow Control
-    - [ ] Logical operators
-    - [ ] Conditionals
-- [ ] Importing modules
+- [x] Commenting
+- [x] Flow Control
+    - [x] Logical operators
+    - [x] Conditionals
+- [x] Importing modules
